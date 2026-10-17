@@ -1,0 +1,10 @@
+{
+  "name": "testing-out-games-multiplayer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mars Construct accounts, persistent colony saves, and multiplayer presence backend",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" },
+  "dependencies": { "express": "^4.21.2" }
+}
